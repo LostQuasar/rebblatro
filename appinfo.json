@@ -1,0 +1,27 @@
+{
+  "uuid": "03ed0510-5634-475c-9e37-c4dc03fad48d", 
+  "shortName": "Rebblatro", 
+  "longName": "Rebblatro", 
+  "companyName": "LostQuasar", 
+  "versionCode": 5, 
+  "versionLabel": "1.4", 
+  "watchapp": {
+    "watchface": true
+  }, 
+  "sdkVersion": "3",
+  "targetPlatforms": [
+    "basalt"
+  ], 
+  "appKeys": {
+    "dummy": 0
+  }, 
+  "resources": {
+    "media": [
+      {
+        "type": "font",
+        "name": "EXAMPLE_FONT_74",
+        "file": "fonts/m6x11plus.ttf"
+      }
+    ]
+  }
+}
