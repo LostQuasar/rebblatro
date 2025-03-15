@@ -3,8 +3,8 @@
   "shortName": "Rebblatro", 
   "longName": "Rebblatro", 
   "companyName": "LostQuasar", 
-  "versionCode": 5, 
-  "versionLabel": "1.4", 
+  "versionCode": 1, 
+  "versionLabel": "1.0", 
   "watchapp": {
     "watchface": true
   }, 
@@ -19,8 +19,13 @@
     "media": [
       {
         "type": "font",
-        "name": "EXAMPLE_FONT_74",
+        "name": "M_PLUS_FONT_76",
         "file": "fonts/m6x11plus.ttf"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_BACKGROUND",
+        "file": "background.png"
       }
     ]
   }
